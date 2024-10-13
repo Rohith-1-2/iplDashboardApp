@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+}
+.card {
+  width: 70%;
+}
+.headCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+.image {
+  width: 4%;
+  margin-right: 10px;
+}
+.head {
+  font-family: 'Bree Serif';
+  font-size: 50px;
+}
+.unorder {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

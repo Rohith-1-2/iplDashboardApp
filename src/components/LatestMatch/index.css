@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.latest-container {
+  background-color: #1e293b;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.latest-bottom {
+  text-align: right;
+  width: 30%;
+}
+.latest-top {
+  width: 30%;
+}
+.latestImage {
+  width: 25%;
+}
+.latestHead {
+  font-size: 20px;
+}
+.topHead {
+  font-size: 30px;
+}
+.dat {
+  font-size: 25px;
+}

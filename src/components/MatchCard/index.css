@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.cardList {
+  width: 32%;
+  flex-shrink: 0;
+  background-color: #1e293b;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  margin-bottom: 20px;
+}
+.cardImage {
+  width: 60%;
+  height: 120px;
+}
+.cardHead {
+  height: 90px;
+}
+.cardPara {
+  height: 45px;
+}
+.red {
+  color: #e31a1a;
+  font-size: 25px;
+}
+.green {
+  color: #18ed66;
+  font-size: 25px;
+}
